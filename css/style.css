@@ -1,0 +1,79 @@
+body{
+	font-family: helvetica;
+	background-color: #2F2F30;
+	font: white;
+}
+.a{
+	width: 1px;
+    border: 25px solid black;
+    margin-top: 150px; 
+    display: inline-block;
+}
+.b{
+	width: 1px;
+	border: 25px solid #069106;
+}
+.c{
+	width: 1px;
+	border: 25px solid #E03232;
+	margin-top: -100px;
+}
+.d{
+	width: 1px;
+	border: 25px solid #E0E505;
+	margin-top: -50px;
+}
+.e{
+	width: 1px;
+	border: 25px solid #4868C1;
+	margin-top: -100px;
+}
+.olympics{
+	font-size: 30px;
+	color: white;
+}
+.special{
+	color: white;
+	font-size: 20px;
+	margin-top: 100px;
+	margin-left: 20px;
+}
+.a2{
+	width: 1px;
+	border: 25px solid black;
+	margin-top: -55px;
+}
+.a3{
+	width: 1px;
+	border: 25px solid white;
+	margin-top: -35px;
+	margin-left: -500px;
+}
+.special2{
+	color: white;
+	font-size: 20px;
+	margin-top: 10px;
+}
+.a4{
+	width: 1px;
+	border: 25px solid white;
+	margin-top: -10px;
+}
+.special3{
+	color: white;
+	font-size: 20px;
+}
+.special4{
+	color: white;
+	font-size: 40px;
+	margin-top: 150px;
+	border-top: 1px solid white;
+	display: inline-block;
+}
+.event{
+	color: white;
+	margin-top: -50px;
+	margin-bottom: 30px;
+	display: inline-block;
+}
+
